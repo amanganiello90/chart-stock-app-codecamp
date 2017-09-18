@@ -1,0 +1,8 @@
+{
+  "name": "Chart the stock market",
+  "description": "A Node.js app to chart the stock market.",
+  "repository": "https://github.com/amanganiello90/chart-stock-app-codecamp",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
