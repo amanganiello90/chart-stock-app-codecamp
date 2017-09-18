@@ -1,0 +1,28 @@
+{
+  "name": "chart-stock-app-codecamp",
+  "version": "0.2.5",
+  "description": "A Node.js app that uses the Markit On Demand APIs to chart the stock market.",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3",
+    "request": "^2.74.0",
+    "socket.io": "^1.4.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amanganiello90/chart-stock-app-codecamp"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
